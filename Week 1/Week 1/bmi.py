@@ -1,0 +1,6 @@
+print("Wat is je gewicht?")
+gewicht = input()
+print("Wat is je lengte in meters?")
+lengte = input()
+antwoord = (float(gewicht)/(float(lengte) * float(lengte)))
+print("Je BMI is: " + str(antwoord))
