@@ -159,6 +159,13 @@ cmake-build-*/
 *.iws
 
 # IntelliJ
+week_1/.idea
+week_2/.idea
+week_3/.idea
+week_4/.idea
+week_5/.idea
+week_6/.idea
+week_7/.idea
 out/
 
 # mpeltonen/sbt-idea plugin
